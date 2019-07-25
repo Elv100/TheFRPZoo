@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheFRPZoo</string>
+    <string name="button_0">0</string>
+    <string name="button_5">5</string>
+    <string name="button_10">10</string>
+    <string name="toggle">toggle</string>
+    <string name="counter0">Count: %s</string>
+    <string name="counter5">Count: %s</string>
+    <string name="counter10">Count: %s</string>
+</resources>
